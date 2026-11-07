@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ram:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-11-07T19:25:39.801276395Z"
+    description: A Helm chart for Kubernetes
+    digest: 631f4d9e4ffd31b4011c3596b1567f9ba25cf2ed9dac6c0f3d80ef2873ff27aa
+    name: ram
+    type: application
+    urls:
+    - ram-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-11-07T19:25:39.799635493Z"
